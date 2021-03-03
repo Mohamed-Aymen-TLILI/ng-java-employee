@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "ng-java-employee"
+    }
+  },
+  "defaultProject": "ng-java-employee",
+  "cli": {
+    "analytics": false
+  }
 }
